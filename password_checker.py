@@ -6,7 +6,7 @@ def is_valid_password(text):
 
 
 def main():
-    new_password = "s#sssssssss"
+    new_password = "s#ssssssssss"
     print(f"{new_password} is a valid password?{is_valid_password(new_password)}")
 
 
